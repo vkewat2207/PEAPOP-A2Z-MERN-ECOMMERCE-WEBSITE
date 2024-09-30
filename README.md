@@ -3,6 +3,8 @@ WEBSITE NAME PEAPOP-A2Z
 MERN E-Commerce website with Admin Panel, React,BRAINTREE  Payment, Cloud Deployment, Email Invoice, and many features (complete features given below in Description )
 
 🔥 Code Repositories:
+
+https://github.com/vkewat2207/PEAPOP-A2Z-MERN-ECOMMERCE-WEBSITE
 -
 
 🔥 Features :
@@ -71,7 +73,7 @@ See admin dashboard demo
 Clone the repository
 
 git clone 
-
+https://github.com/vkewat2207/PEAPOP-A2Z-MERN-ECOMMERCE-WEBSITE
 
 Install
 npm install in the project root will install dependencies in both client and server. See package.json
