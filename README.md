@@ -1,4 +1,9 @@
 WEBSITE NAME PEAPOP-A2Z
+https://peapop-a2z-mern-ecommerce-website-2.onrender.com
+
+
+Forgot to describe one important point here 
+This is SEO friendly also with all meta data and meta tags favicon and all included for search engine to show this on Top 
 
 MERN E-Commerce website with Admin Panel, React,BRAINTREE  Payment, Cloud Deployment, Email Invoice, and many features (complete features given below in Description )
 
