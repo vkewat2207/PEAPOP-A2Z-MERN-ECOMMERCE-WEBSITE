@@ -1,6 +1,8 @@
 WEBSITE NAME PEAPOP-A2Z
 https://peapop-a2z-mern-ecommerce-website-2.onrender.com
 
+For payment please use card no 4242 4242 4242 4242 expiry 09/24 is baad kaam kuch bhi nd cvv any 3 digit no
+
 
 Forgot to describe one important point here 
 This is SEO friendly also with all meta data and meta tags favicon and all included for search engine to show this on Top 
